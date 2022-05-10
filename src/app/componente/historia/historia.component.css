@@ -1,0 +1,15 @@
+.box1{
+    position: relative;
+}
+
+.imgh{
+    float: right;
+}
+.box2{
+    position: relative;
+    left: 0%;
+}
+.box3{
+    position: relative;
+    left: 0px;
+}

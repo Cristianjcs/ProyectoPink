@@ -1,0 +1,84 @@
+
+.caja1{
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+.caja2{
+    
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja3{
+    
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja4{
+   
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja5{
+   
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja6{
+    
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja7{
+    
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja8{
+    
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja9{
+   
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja10{
+   
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.caja11{
+    
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+ }
